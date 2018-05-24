@@ -1,0 +1,30 @@
+-------------
+
+
+
+
+Team High Five--------------- 
+---- ---- ----
+
+Contributions
+---- ---- -----
+
+
+1. Suraj Anuraag Akula (RED ID: 819914882)-- K-Nearest Neighbour + it's Report + Visualization (Movie with high rating and votes, Movie with medium rating and votes)
+
+2. Raghav Kishan Sunku Ravindranath (RED ID: 820174908)-- AdaBoost + it's Report + Visualization (Movie with high rating and revenue, Movie with medium rating and revenue)
+
+
+
+3. Tanvi Vidhate (RED ID: 820851740)-- SVM + it's Report + Visualization (Movie with high rating and metascore, Movie with medium rating and metascore)
+
+
+
+4. Sreerag Sreenivasan (RED ID: 820911878)-- Naive Bayes Classifier + it's Report + Visualizations (Rating vs Year , Top 10 Directors)
+
+
+
+5. Sai Chaitanya Kanumalli (RED ID: 820375121)-- Logistic Regression + it's Report + Other sections in Report
+
+
+
